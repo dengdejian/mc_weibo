@@ -1,0 +1,3 @@
+include ':mc_weibo'
+include ':app'
+rootProject.name = "Mh_ch_weibo"
